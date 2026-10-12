@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Himanshu 👋</h1>
-<h3 align="center">Full-Stack Developer · Java & React</h3>
+<h3 align="center">Full-Stack Developer · Java · Node.js · React · Next.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu56784&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 **3+ years** building full-stack applications with **React** on the front end and **Java / Spring Boot** on the back end
+- 💼 **3+ years** building full-stack applications with **React / Next.js** on the front end and **Java / Spring Boot** and **Node.js** on the back end
 - 🏗️ I enjoy designing clean REST APIs, well-modelled databases, and containerised services
 - 🌱 Currently leveling up in **System Design**, **Kafka**, **Redis**, and **Java NIO**
 - 🤝 Open to collaborating on backend-heavy and distributed-systems projects
@@ -23,15 +23,19 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Tools**
 
